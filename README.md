@@ -18,7 +18,7 @@
    curl -s https://raw.githubusercontent.com/CouleeTechlinkInc/tutorial-devsetup/refs/heads/main/setup_level1.sh | bash
    ```
 4) Generate an ssh key, and save it to authorized_keys
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GB794V0SRHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/GB794V0SRHs/0.jpg)](https://youtu.be/GB794V0SRHs)
 
 
 ### Cursor setup
