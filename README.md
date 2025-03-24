@@ -24,7 +24,12 @@
 
 ### Cursor setup
 1) signup and install  [Cursor](https://www.cursor.com/)
-2) Install the SSH extention on cursor
-3) Add the devserver to your ssh config
-4) Create a project and run it 
+2) setup ssh key authentication
+ ```bash
+read $YOUR_SSH_KEY
+echo $YOUR_SSH_KEY >> ~/.ssh/authorized_keys
+```  
+3) Install the SSH extention on cursor
+4) Add the devserver to your ssh config
+5) Create a project and run it 
    
