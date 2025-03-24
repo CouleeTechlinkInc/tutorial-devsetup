@@ -30,7 +30,8 @@ In your Windows Desktop
 ssh-keygen
 ```
 notepad .ssh\<key_file>.pub
-   
+
+in your dev server, ( you can get to this by ssh <username>@<server ip> )
  ```bash
 read YOUR_SSH_KEY
 echo $YOUR_SSH_KEY >> ~/.ssh/authorized_keys
