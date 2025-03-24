@@ -38,4 +38,7 @@ echo $YOUR_SSH_KEY >> ~/.ssh/authorized_keys
 3) Install the SSH extention on cursor
 4) Add the devserver to your ssh config
 5) Create a project and run it 
-   
+
+[![Cursor Setup Video](https://img.youtube.com/vi/2SedOZ2GNgk/0.jpg)]([https://youtu.be/GB794V0SRHs](https://youtu.be/2SedOZ2GNgk))
+
+
