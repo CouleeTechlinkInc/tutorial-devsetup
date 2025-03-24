@@ -25,8 +25,14 @@
 ### Cursor setup
 1) signup and install  [Cursor](https://www.cursor.com/)
 2) setup ssh key authentication
+In your Windows Desktop
+```powershell
+ssh-keygen
+```
+notepad .ssh\<key_file>.pub
+   
  ```bash
-read $YOUR_SSH_KEY
+read YOUR_SSH_KEY
 echo $YOUR_SSH_KEY >> ~/.ssh/authorized_keys
 ```  
 3) Install the SSH extention on cursor
