@@ -43,5 +43,5 @@ echo $YOUR_SSH_KEY >> ~/.ssh/authorized_keys
 
 ### Build your first app
 
-[![Cursor Setup Video](https://img.youtube.com/vi/BlASDf7Lzsk/0.jpg)]([https://youtu.be/GB794V0SRHs](https://youtu.be/BlASDf7Lzsk))
+[![First Aop Setup Video](https://img.youtube.com/vi/BlASDf7Lzsk/0.jpg)](https://youtu.be/BlASDf7Lzsk)
 
